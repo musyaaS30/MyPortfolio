@@ -21,7 +21,7 @@ Clone repositori ini:
  - bash
 Copy
 Edit
-git clone https://github.com/musyaaS30/MyPortfolio.git
+git clone https://musyaas30.github.io/MyPortfolio/
 Buka file index.html menggunakan browser favorit Anda.
 
 <h2>Portfolio:</h2>
