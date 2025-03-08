@@ -26,4 +26,5 @@ Buka file index.html menggunakan browser favorit Anda.
 
 <h2>Portfolio:</h2>
 
-![Screenshot 2025-01-27 182805](https://github.com/user-attachments/assets/85682d58-6926-47ef-8e28-ddfba8670cf5)
+![722shots_so](https://github.com/user-attachments/assets/13c9da59-b916-462d-9e41-71cfed6c1bd7)
+
